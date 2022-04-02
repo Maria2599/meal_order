@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824316973727",
+    "project_id": "mealorder-2b8de",
+    "storage_bucket": "mealorder-2b8de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824316973727:android:3827c3fc557a6cae6d48aa",
+        "android_client_info": {
+          "package_name": "com.example.meal_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824316973727-vs1bai3bvjgt76qgriasiiish4cu7kgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3SmYwTP46E96GUWfrzv4jV33PXUH40ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824316973727-vs1bai3bvjgt76qgriasiiish4cu7kgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
